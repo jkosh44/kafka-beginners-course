@@ -1,0 +1,7 @@
+/home/joe/IdeaProjects/kafka-beginners-course/kafka-basics/src/main/java/consumers/ConsumerDemo.java
+/home/joe/IdeaProjects/kafka-beginners-course/kafka-basics/src/main/java/consumers/ConsumerDemoWithThreads.java
+/home/joe/IdeaProjects/kafka-beginners-course/kafka-basics/src/main/java/producers/ProducerDemo.java
+/home/joe/IdeaProjects/kafka-beginners-course/kafka-basics/src/main/java/producers/ProducerDemoKeys.java
+/home/joe/IdeaProjects/kafka-beginners-course/kafka-basics/src/main/java/consumers/ConsumerDemoAssignSeek.java
+/home/joe/IdeaProjects/kafka-beginners-course/kafka-basics/src/main/java/producers/ProducerDemoWithCallback.java
+/home/joe/IdeaProjects/kafka-beginners-course/kafka-basics/src/main/java/consumers/ConsumerDemoGroups.java

@@ -1,0 +1,5 @@
+target/*
+.idea/*
+kafka-beginners-cource.iml
+*.properties
+

@@ -1,0 +1,8 @@
+consumers/ConsumerDemoGroups.class
+consumers/ConsumerDemoWithThreads.class
+consumers/ConsumerDemoAssignSeek.class
+producers/ProducerDemoKeys.class
+producers/ProducerDemoWithCallback.class
+consumers/ConsumerDemo.class
+consumers/ConsumerDemoWithThreads$ConsumerRunnable.class
+producers/ProducerDemo.class
